@@ -1,0 +1,43 @@
+# Muhammad Ahmad Naeem
+
+> Muhammad Ahmad Naeem is a production and manufacturing engineer in Sydney, Australia. He works on beverage and food plants across PET bottle, carton and can lines: production, maintenance, reliability, loss reduction and plant data.
+
+## Facts
+
+- What does he do? He is a production and manufacturing engineer who works on the plant floor of beverage and food factories. His work covers production, maintenance, reliability, loss reduction and plant data.
+- Where is he based? Sydney, New South Wales, Australia.
+- Which lines has he worked on? PET bottle lines, Tetra Pak carton lines for juice, and can lines, across carbonated soft drinks, juice and water, plus a noodle plant at Unilever.
+- Which equipment does he know? KRONES, SIDEL and Tetra Pak equipment: blow moulders, mixers, fillers, cappers, labellers, packers, conveyors and water treatment.
+- What has he delivered? Eleven water conservation projects saving 306,000 cubic metres a year, a nitrogen dosing rebuild that cut nitrogen use by 40 percent, commissioning of a SIDEL blow moulder and a reverse osmosis plant, and PKR 61 million in verified savings at PepsiCo.
+- Where has he worked? Refresco Australia, Elgas, PepsiCo, OneScreen and Unilever.
+- What is his education? BSc in Mechanical Engineering from GIK Institute (2024), and a Master of Professional Engineering (Mechanical) in progress at the University of Technology Sydney.
+- How do I contact him? Through LinkedIn at linkedin.com/in/m-ahmad-naeem-
+
+## Experience
+
+- Aug 2026 to present: Manufacturing Engineering Intern, Refresco Australia, Condell Park, Sydney
+- Feb 2026 to Jun 2026: Automation Project Engineer, Elgas, industry project with UTS, Sydney
+- Jul 2024 to Jan 2026: Production Engineer, PepsiCo, Faisalabad, Pakistan
+- Sep 2024 to Nov 2024: Global Supply Chain Executive, OneScreen, Islamabad, Pakistan
+- Aug 2022 to Sep 2022: Maintenance Intern, Unilever, Lahore, Pakistan
+
+## Selected projects
+
+- Eleven water conservation projects (PepsiCo): Mapped where a three line beverage plant used its water, then fixed the largest losses first: reverse osmosis reject reuse, rinser water recovery, closed loop cooling and pressure settings by pack size. Result: 306,000 m³ of water saved every year.
+- Nitrogen dosing rebuilt as pulse dosing (PepsiCo): The dosing unit on a water line had been dead for years and nitrogen ran by hand. Rebuilt it with a solenoid mechanism and sensor triggered, PLC controlled pulses tuned per bottle size. Result: 40% less nitrogen used, about PKR 20 million a year.
+- New SIDEL blow moulder and reverse osmosis plant (PepsiCo): Commissioned a new SIDEL blow moulding machine on a PET line and a new reverse osmosis water treatment plant, from installation through to stable production. Result: 2 new assets handed over to production.
+- Main bearing change on a KRONES rotary filler (PepsiCo): Abnormal vibration pointed to the filler main bearing. Planned the shutdown, opened the carousel, replaced the bearing and rebuilt with alignment checks before restart. Result: 20% approximate OEE gain across his time on the lines.
+- Automated handling for LPG cylinder cages (Elgas): A simple mechanical concept chosen over a robotic cell so it works with the existing cages and daily operations, with the door opening mechanism and retainer designed in CAD. Result: < 1 yr estimated payback in the business case.
+- Reliability and maintenance dashboard (Refresco Australia): A Power BI dashboard that brings live line data and SAP maintenance data together, so downtime, breakdowns and efficiency are read from one place. Result: Live published and used across the site.
+- Material yield model for syrup, caps and preforms (Refresco Australia): A model built on SAP stock counts that shows material loss per process order, per day, per product and as a monthly trend. Result: 3 materials tracked from order level to monthly trend.
+- Automatic lubrication on a food plant (Unilever): Replaced manual lubrication rounds with automatic lubrication on critical equipment at a 13 line noodle plant. Result: 40% fewer equipment failures.
+
+## Writing
+
+- [Where the water goes in a beverage plant, and where to look first](https://ahmadnaeempbc.github.io/water-in-a-beverage-plant.html): The order I follow to find water savings on a beverage plant, from eleven projects that save 306,000 cubic metres a year.
+- [How to measure syrup, cap and preform yield on a bottling line](https://ahmadnaeempbc.github.io/measuring-material-yield-on-a-bottling-line.html): The choices that make a material yield model work on a PET line, starting with stock counts instead of goods issues.
+- [Tilted caps, a vibrating capper and the restart I refused to rush](https://ahmadnaeempbc.github.io/tilted-caps-and-the-restart-i-refused-to-rush.html): A capping fault on a PET line that turned out to have more than one cause, and why the restart had to wait.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/m-ahmad-naeem-/
