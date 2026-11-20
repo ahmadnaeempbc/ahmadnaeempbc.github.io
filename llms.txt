@@ -11,7 +11,7 @@
 - What has he delivered? Eleven water conservation projects saving 306,000 cubic metres a year, a nitrogen dosing rebuild that cut nitrogen use by 40 percent, commissioning of a SIDEL blow moulder and a reverse osmosis plant, and PKR 61 million in verified savings at PepsiCo.
 - Where has he worked? Refresco Australia, Elgas, PepsiCo, OneScreen and Unilever.
 - What is his education? BSc in Mechanical Engineering from GIK Institute (2024), and a Master of Professional Engineering (Mechanical) in progress at the University of Technology Sydney.
-- How do I contact him? Through LinkedIn at linkedin.com/in/m-ahmad-naeem-
+- How do I contact him? Email m.ahmad.naeem5@gmail.com, phone +61 408 158 938, or LinkedIn at linkedin.com/in/m-ahmad-naeem-
 
 ## Experience
 
@@ -34,10 +34,20 @@
 
 ## Writing
 
+- [Rebuilding a dead nitrogen doser into pulse dosing](https://ahmadnaeempbc.github.io/nitrogen-dosing-rebuilt-as-pulse-dosing.html): How a nitrogen dosing unit on a bottled water line was rebuilt with sensor triggered, PLC controlled pulses and cut nitrogen use by about 40 percent.
+- [Replacing the main bearing on a rotary filler](https://ahmadnaeempbc.github.io/replacing-the-main-bearing-on-a-rotary-filler.html): How abnormal vibration on a KRONES rotary filler was treated as a reliability job, from diagnosis to a planned main bearing change.
+- [My first six days on any plant](https://ahmadnaeempbc.github.io/my-first-six-days-on-any-plant.html): The plant manual I build in the first week on a new site, and why clarity comes before tools.
 - [Where the water goes in a beverage plant, and where to look first](https://ahmadnaeempbc.github.io/water-in-a-beverage-plant.html): The order I follow to find water savings on a beverage plant, from eleven projects that save 306,000 cubic metres a year.
 - [How to measure syrup, cap and preform yield on a bottling line](https://ahmadnaeempbc.github.io/measuring-material-yield-on-a-bottling-line.html): The choices that make a material yield model work on a PET line, starting with stock counts instead of goods issues.
 - [Tilted caps, a vibrating capper and the restart I refused to rush](https://ahmadnaeempbc.github.io/tilted-caps-and-the-restart-i-refused-to-rush.html): A capping fault on a PET line that turned out to have more than one cause, and why the restart had to wait.
+- [Designing automation for LPG cylinder cages](https://ahmadnaeempbc.github.io/designing-automation-for-lpg-cylinder-cages.html): What an industry project with Elgas taught me about designing automation for a real operating site.
+- [How a PET bottling line works, from preform to pallet](https://ahmadnaeempbc.github.io/how-a-pet-bottling-line-works.html): A plain walk through a PET soft drink line, machine by machine, and where these lines usually lose time.
+- [What OEE hides on a beverage line](https://ahmadnaeempbc.github.io/what-oee-hides-on-a-beverage-line.html): OEE is one number built from three, and on a filling line the detail underneath matters more than the headline.
+- [From GIK to a Sydney plant floor](https://ahmadnaeempbc.github.io/from-gik-to-a-sydney-plant-floor.html): How a mechanical engineering graduate from Pakistan ended up back beside fillers and blow moulders on the other side of the world.
 
 ## Contact
 
+- Email: m.ahmad.naeem5@gmail.com
+- Mobile: +61 408 158 938
 - LinkedIn: https://www.linkedin.com/in/m-ahmad-naeem-/
+- About: https://ahmadnaeempbc.github.io/about.html
